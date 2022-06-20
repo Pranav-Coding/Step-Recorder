@@ -3,7 +3,9 @@
 # Installing Dependencies 
 ![alt text](./img/img4.png)
 ![alt text](./img/img5.png)
+for arch linux and based distros
 ![alt text](./img/img6.png)
+for ubuntu or debian linux 
 ![alt text](./img/img10.png)
 
 # Usage
