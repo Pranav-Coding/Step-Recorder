@@ -1,11 +1,9 @@
 # Step-Recorder
 
 # Installing Dependencies 
-![alt text](./img/img3.png)
 ![alt text](./img/img4.png)
 ![alt text](./img/img5.png)
 ![alt text](./img/img6.png)
-![alt text](./img/img8.png)
 ![alt text](./img/img10.png)
 
 # Usage
